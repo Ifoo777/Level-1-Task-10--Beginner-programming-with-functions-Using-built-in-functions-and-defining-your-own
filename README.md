@@ -1,6 +1,6 @@
 # Level-1-Task-10--Beginner-programming-with-functions-Using-built-in-functions-and-defining-your-own
 
-##Task 1
+## Task 1
 
 Follow these steps:
 
@@ -20,7 +20,7 @@ Follow these steps:
 
 ● Find the median number and log the result to the console.
 
-##Task 2
+## Task 2
 Follow these steps:
 
 ● Note: For this task you will need to create an HTML file to get input from a user.
@@ -39,7 +39,7 @@ o The word where every 6th letter is uppercase.
 
 o An array of the ascii values for each character in the word.
 
-##Task 3
+## Task 3
 Follow these steps:
 
 ● Note: For this task you will need to create an HTML file to get input from a user.
